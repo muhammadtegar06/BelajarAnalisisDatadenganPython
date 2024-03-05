@@ -1,9 +1,9 @@
 # Belajar-Analisis-Data-Dengan-Python
-![](https://github.com/indracahyaramdani/Belajar-Analisis-Data-Dengan-Python/blob/main/dashboard/Dashboard.png?raw=true)
+![](https://github.com/muhammadtegar06/BelajarAnalisisDatadenganPython.git)
 # Cara Menjalankan Dashboard pada personal Env
 1. Salin repository
 ```
-git clone https://github.com/indracahyaramdani/Belajar-Analisis-Data-Dengan-Python.git
+git clone https://github.com/muhammadtegar06/BelajarAnalisisDatadenganPython.git
 ```
 2. Seting env pada anaconda
 ```
@@ -12,7 +12,7 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ```
-3. Pindah direktori ke `Belajar-Analisis-Data-Dengan-Python/dashboard`
+3. Pindah direktori ke `Belajar-Analisis-Data-Dengan-Python`
 ```
 cd 'Belajar-Analisis-Data-Dengan-Python/dasboard'
 ```
